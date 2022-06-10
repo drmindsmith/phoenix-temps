@@ -3,5 +3,4 @@ Simple comparison between change in average annual temperature in Phoenix, AZ, t
 
 Data is smoothed using 5-year averages.
 
-Also available on Tableau public at 
-[https](https://public.tableau.com/app/profile/russel.potter/viz/PhoenixTemperatures/Dashboard1)****
+Also available on Tableau public [here](https://public.tableau.com/app/profile/russel.potter/viz/PhoenixTemperatures/Dashboard1)****
